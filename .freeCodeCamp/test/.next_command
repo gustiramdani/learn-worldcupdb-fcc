@@ -1,0 +1,23 @@
+ls --color=auto
+ls --color=auto -l
+chmod +X insert_data.sh
+chmod +x queries.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto
+ls --color=auto -l
+chmod +x insert_data.sh
+ls --color=auto
+./insert_data.sh d
+./insert_data.sh d
+./insert_data.sh test
+./insert_data.sh winner
+./insert_data.sh winner
+./insert_data.sh winner
+./insert_data.sh opponent
+./insert_data.sh opponent
+./insert_data.sh opponent
+./insert_data.sh opponent
+./insert_data.sh games
+./insert_data.sh games
+./insert_data.sh games
